@@ -46,4 +46,9 @@ public class MyBatisTest01 {
 		System.out.println(selectMap3);
 	}
 	
+	public void test() {
+		System.out.println("------");
+	}
+	
+	
 }
