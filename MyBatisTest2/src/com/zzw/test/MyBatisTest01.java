@@ -50,5 +50,7 @@ public class MyBatisTest01 {
 		System.out.println("------");
 	}
 	
-	
+	public void test2() {
+		System.out.println("------");
+	}
 }
