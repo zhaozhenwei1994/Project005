@@ -47,7 +47,7 @@ public class MyBatisTest01 {
 	}
 	
 	public void test() {
-		System.out.println("------");
+		System.out.println("---++++---");
 	}
 	
 	public void test2() {
